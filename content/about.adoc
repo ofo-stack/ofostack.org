@@ -1,0 +1,17 @@
+---
+title: "About"
+description: "Ingest, Search, Visualize, and Analyze your data"
+draft: false
+images: []
+menu: main
+weight: 2
+---
+
+### What is the OFO Stack? 
+
+"OFO" is the acronym for three open source projects: OpenSearch, Fluent Bit/Fluentd, and OpenSearch Dashboard. https://www.opensearch.org/[OpenSearch] is a search and analytics engine. https://fluentbit.io/[Fluent Bit] / https://www.fluentd.org/[Fluentd] are server‑side data processing pipeline software that ingests data, transforms it, and then sends it to a database search engine like OpenSearch. https://www.opensearch.org/[OpenSearch Dashboard] lets users visualize data with charts and graphs in OpenSearch Dashboard.
+
+The OFO Stack is an https://opensource.org/osd[open source] replacement for the ELK stack.  The ELK stack is no longer a viable option for many people due to licensing changes making it not https://www.gnu.org/philosophy/free-sw.html[free software] and not an https://opensource.org/licenses/category[open source license].
+
+### How Can I Contribute?
+We love contributors!  Right now the OFO Stack is still in its infancy.  We currently are looking for help with documentation, tutorials, and best practices on how to build, install, and configure an OFO stack. If you would like to contribute, please join us on https://github.com/ofo-stack/[Github].
